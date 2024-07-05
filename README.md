@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzzmicz&layout=compact)](https://github.com/kuzzmicz/github-readme-stats)
+
