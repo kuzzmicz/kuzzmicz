@@ -33,5 +33,10 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzzmicz&layout=compact)](https://github.com/kuzzmicz/github-readme-stats)
+<img width="160" alt="beaver 2" src="https://github.com/kuzzmicz/kuzzmicz/assets/59771476/b61d30eb-2d59-4e2d-ba6c-6767a78137ab">
+<img width="179" alt="beavers" src="https://github.com/kuzzmicz/kuzzmicz/assets/59771476/58267df9-5cb1-43b6-af0f-c55c8a673b09">
+<img width="123" alt="beaver" src="https://github.com/kuzzmicz/kuzzmicz/assets/59771476/956c9cdd-c3f4-4c62-af88-56e4f58083e7">
+
 
