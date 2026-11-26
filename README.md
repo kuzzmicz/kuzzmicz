@@ -1,8 +1,6 @@
 # Hi, I'm Mariia Dorokhova (kuzzmicz) 👋
 
 **Junior Software Developer | Data Analytics & Data Science Enthusiast**
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 
 I'm a programming graduate based in Poznań, Poland, with hands-on experience from two software development internships.
 
